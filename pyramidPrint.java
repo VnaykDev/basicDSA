@@ -2,13 +2,7 @@ public class pyramidPrint {
 
     public static void main(String[] args) {
 
-        // area to run leetcode problems.
-        // do not submit this. only the method(s)
-
-        pyramidPrinter(6);
-
-
-
+        pyramidPrinter(4);
     }
 
     public static void pyramidPrinter(int order){
